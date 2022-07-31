@@ -12,7 +12,8 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 Feel free to check it out [here](https://chill-three.github.io/home/)!
 
 ## My Main Projects (In Progress/Past)
-* [Vivado Projects](https://github.com/CHill-Three/vivado.projects) - The projects featured in this portfolio were created using the Artix-7 FPGA Family (Package: cpg236)(Part ID: xc7a35tcpg236-1).
+* [Vivado Projects](https://github.com/CHill-Three/vivado.projects) - The projects featured in this portfolio were created using the Artix-7 FPGA Family 
+(Package: cpg236)(Part ID: xc7a35tcpg236-1).
 * [MATLAB Projects](https://github.com/CHill-Three/matlab.projects) - My personal portfolio of completed MATLAB projects.
 * [MARS 4.5 Projects](https://github.com/CHill-Three/mars.projects) - My personal portfolio of completed MARS 4.5 projects.
 * [Tinkercad Projects](https://github.com/CHill-Three/tinkercad.projects) - My personal portfolio of completed Tinkercad projects.
