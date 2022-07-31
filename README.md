@@ -1,7 +1,7 @@
 ## Introduction
 Hello! My name is Charles and I am an undergraduate student attending the University of Texas at Dallas, currently pursuing a Bachelor's of Science degree in Electrical Engineering. Currently, I am seeking an internship or full-time opportunities.
 
-- 🔭 I’m currently working on various **RSLogix 5000 programs**.
+- 🔭 I’m currently learning to utilize **RSLogix 5000**.
 - ⚡ I’m currently improving my **Verilog coding skills**.
 - 🏀 Fun fact 🏈: I love basketball and gridiron football.
 
