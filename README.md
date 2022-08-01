@@ -5,12 +5,11 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 - ⚡ I’m currently improving my **Verilog coding skills**.
 - 🏀 Fun fact 🏈: I love basketball and gridiron football. 
 
-<!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=chill-three)
-
 ## Website
 <!-- Image Link -->
 ![Website Preview Image](https://raw.githubusercontent.com/CHill-Three/CHill-Three/main/image.PNG?raw=true "Website Preview Image")
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=chill-three)
 
 ### Feel free to check it out [here](https://chill-three.github.io/home/)!
 
