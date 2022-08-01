@@ -3,7 +3,7 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 
 - 🔭 I’m currently learning to utilize **RSLogix 5000**.
 - ⚡ I’m currently improving my **Verilog coding skills**.
-- 🏀 Fun fact 🏈: I love basketball and gridiron football.
+- 🏀 Fun fact 🏈: I love basketball and gridiron football. 
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=chill-three)
