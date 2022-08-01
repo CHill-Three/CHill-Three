@@ -9,7 +9,8 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 <!-- Image Link -->
 ![Website Preview Image](https://raw.githubusercontent.com/CHill-Three/CHill-Three/main/image.PNG?raw=true "Website Preview Image")
 
-### Feel free to check it out [here](https://chill-three.github.io/home/)! <!-- GitHub Profile Views Counter --> ![](https://komarev.com/ghpvc/?username=chill-three&label=TOTAL+PROFILE+VIEWS&style=for-the-badge)
+### Feel free to check it out [here](https://chill-three.github.io/home/)! <!-- GitHub Profile Views Counter --> 
+* ![](https://komarev.com/ghpvc/?username=chill-three&label=TOTAL+PROFILE+VIEWS&style=for-the-badge)
 
 
 ## My Main Projects (In Progress/Past)
