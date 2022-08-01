@@ -37,4 +37,4 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 
 
 ## Contact Me
-* Feel free to reach out directly to me on [LinkedIn](https://www.linkedin.com/in/charleshillthree/)! Thank you for your time!
+* Feel free to reach out directly to me on [LinkedIn](https://www.linkedin.com/in/charleshillthree/)! Thank you for your time! 😄
