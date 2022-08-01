@@ -12,11 +12,13 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 Feel free to check it out [here](https://chill-three.github.io/home/)!
 
 ## My Main Projects (In Progress/Past)
-* [Vivado Projects](https://github.com/CHill-Three/vivado.projects) - The projects featured in this portfolio were created using the Artix-7 FPGA Family (Package: cpg236)(Part ID: xc7a35tcpg236-1).
-* [MATLAB Projects](https://github.com/CHill-Three/matlab.projects) - My personal portfolio of completed MATLAB projects.
-* [MARS 4.5 Projects](https://github.com/CHill-Three/mars.projects) - My personal portfolio of completed MARS 4.5 projects.
-* [Tinkercad Projects](https://github.com/CHill-Three/tinkercad.projects) - My personal portfolio of completed Tinkercad projects.
-* [Arduino Projects](https://github.com/CHill-Three/arduino.projects) - My personal portfolio of completed Arduino projects.
+| Program List | Description |
+| :-: | --- |
+| [Arduino](https://chill-three.github.io/arduino.github.io/) | Arduino is an educational C-programming (C++) platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manuel. |
+| [MATLAB](https://chill-three.github.io/matlab.github.io/) | MATLAB is a programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed starter projects utilizing MATLAB. |
+| [MARS 4.5 (MIPS Programming)](https://chill-three.github.io/mars.github.io/) | MARS 4.5 is a free educational resource focusing on microprocessor without interlocked pipelined stages (MIPS) programming, where users can create and/or modify their assembly language code. This is a list of my completed starter projects utilizing MARS 4.5. |
+| [Tinkercad](https://chill-three.github.io/tinkercad.github.io/) | Tinkercad is a free and online educational resource for computer-aided design (CAD) purposes, where users can create and/or modify electronic designs. This is a list of my completed projects using Tinkercad. |
+| [Vivado (FPGA Development)](https://chill-three.github.io/vivado.github.io/) | Vivado is a Verilog-based programming platform resource designed for users to create and/or modify field-programmable gate array (FPGA) system designs. This is a list of my completed projects utilizing Vivado Design Suite. The Vivado Design Suite starter projects featured on this website are my attempts at completing starter projects with the Artix-7 FPGA Family (Package: cpg236)(Part ID: xc7a35tcpg236-1). |
 
 ## Programs and languages that I am familiar with
 * C
