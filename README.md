@@ -21,7 +21,7 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 | [Tinkercad](https://github.com/CHill-Three/tinkercad.projects) | Tinkercad is a free and online educational resource for computer-aided design (CAD) purposes, where users can create and/or modify electronic designs. This is a list of my completed projects using Tinkercad. |
 | [MATLAB](https://github.com/CHill-Three/matlab.projects) | MATLAB is a programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed starter projects utilizing MATLAB. |
 | [MARS 4.5 (MIPS Programming)](https://github.com/CHill-Three/mars.projects) | MARS 4.5 is a free educational resource focusing on microprocessor without interlocked pipelined stages (MIPS) programming, where users can create and/or modify their assembly language code. This is a list of my completed starter projects utilizing MARS 4.5. |
-| [Arduino](https://github.com/CHill-Three/arduino.projects) | Arduino is an educational C-programming (C++) platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manual. |
+| [Arduino](https://github.com/CHill-Three/arduino.projects) | Arduino is an educational C-programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from ELEGOO’s Arduino manual. |
 
 ## Programs and languages that I am familiar with
 * C
