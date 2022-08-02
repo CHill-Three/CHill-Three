@@ -27,7 +27,7 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 * Python
 * Java
 * Linux
-* MARS 4.5 (ASM)
+* MARS 4.5 (Assembly Language)
 * MATLAB and MATLAB App Designer
 * RSLogix 5000
 * Verilog
