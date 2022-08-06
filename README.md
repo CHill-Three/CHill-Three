@@ -29,7 +29,7 @@ Hello! My name is Charles and I am an undergraduate student attending the Univer
 * Linux
 * MARS 4.5 (Assembly Language: MIPS)
 * MATLAB and MATLAB App Designer
-* RSLogix 5000
+* RSLogix 500
 * Verilog
 * Xilinx Vivado
 * Microsoft Office Suite and Google Workspace applications
